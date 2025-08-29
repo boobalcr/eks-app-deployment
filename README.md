@@ -64,12 +64,6 @@ Using Ingress + ALB to expose apps externally
 
 Deploying real-world apps on EKS with persistent networking
 
-📸 Screenshots (Optional)
-
-kubectl get nodes showing worker nodes
-
-Deployed 2048 app running via ALB endpoint
-
 📖 References
 
 AWS EKS Documentation
