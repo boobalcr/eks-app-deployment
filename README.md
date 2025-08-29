@@ -72,4 +72,6 @@ AWS Load Balancer Controller
 
 eksctl Official Docs
 
+[Abhishek Veermalla – EKS Deployment Tutorial (YouTube)](👉 https://youtu.be/RRCrY12VY_s?si=V_Eiesuxw-lT56GK 👈)
+
 💡 This project is part of my DevOps journey — focusing on Kubernetes, AWS, and CI/CD integrations.
