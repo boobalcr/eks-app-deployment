@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AWS EKS 
 
 ## Introduction
@@ -217,3 +218,7 @@ By configuring IAM policies and associating them with IAM roles, you grant speci
 
 By completing these steps, your AWS environment is ready to host an Amazon EKS cluster. You can proceed with creating an EKS cluster using the AWS Management Console or AWS CLI as described in section 3.
 
+=======
+# eks-app-deployment
+Amazon EKS application deployment from scratch with ALB ingress and OIDC integration.
+>>>>>>> 0ceb7fba9af515fc7054a4428d2c5fd435171cad
